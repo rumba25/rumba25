@@ -24,6 +24,12 @@ Hello! I am **Rumba**, a passionate blockchain enthusiast 🌐 dedicated to expl
 - **Security**: Knowledgeable in implementing security measures to protect blockchain nodes and validators 🔒.
 - **Community Involvement**: Active participant in blockchain communities, contributing to discussions and sharing knowledge 🤝.
 
+### My Guides 📘
+
+- 🌐 [0g Full Node Guide](https://github.com/rumba25/guides/blob/main/0g-full-node-guide.md) 🌐 | 🗄️ [0g Storage KV Node Guide](https://github.com/rumba25/guides/blob/main/0g-storage-kv-node-guide.md) 🗄️ | 📦 [0g Storage Node Guide](https://github.com/rumba25/guides/blob/main/0g-storage-node-guide.md) 📦
+- 🗂️ [Planq Node Guide](https://github.com/rumba25/guides/blob/main/planq-node-guide.md) 🗂️
+
+
 ### Get in Touch 📬
 
 Feel free to reach out to me for collaboration 🤝, discussions 💬, or any inquiries related to blockchain technology. Let's connect and build a decentralized future together! 🌟
