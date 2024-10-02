@@ -26,13 +26,25 @@ Hello! I am **Rumba**, a passionate blockchain enthusiast 🌐 dedicated to expl
 
 ### Past Validators 🔗
 
+- [Elixir]() ⚗️
+![image](https://github.com/user-attachments/assets/b058f15f-7d78-4c46-b81c-8ac5c1014327)
+
+
+- [Artela]() 🔼
+![image](https://github.com/user-attachments/assets/98e06983-8bac-45bf-8892-ee54f8563364)
+
+
+- [Union]() 💱
+![image](https://github.com/user-attachments/assets/e534e58f-2e51-44be-a82a-a41890318753)
+
+
 - [Celestia Validator](https://celestia.explorers.guru/validator/celestiavaloper1a4mz9j3p6qva8a4c5mz2ljk8ww7jwemkp3252t) 🌟
 ![Celestia Validator Picture](https://raw.githubusercontent.com/rumba25/rumba25/main/rumba-celestia.webp)
   
 - [Connext Amarok Router](https://testnet.amarok.connextscan.io/router/0xb5B518a636b0444C2BEd27D07f02D237C200ad93) 🚀
 ![Connext Amarok Router Picture](https://raw.githubusercontent.com/rumba25/rumba25/main/rumba-amarok.webp)
 
-- SUI Validator 💧
+- [SUI Validator]() 💧
 ![SUI Validator Picture](https://raw.githubusercontent.com/rumba25/rumba25/main/rumba-sui.webp)
 
 ### My Guides 📘
