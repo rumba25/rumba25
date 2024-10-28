@@ -42,7 +42,7 @@ Hello! I am **Rumba**, a passionate blockchain enthusiast 🌐 dedicated to expl
 
 ### My Guides 📘
 
-- 🌐 [0g Full Node Guide](https://github.com/rumba25/guides/blob/main/0g-full-node-guide.md) 🌐 | 🗄️ [0g Storage KV Node Guide](https://github.com/rumba25/guides/blob/main/0g-storage-kv-node-guide.md) 🗄️ | 📦 [0g Storage Node Guide](https://github.com/rumba25/guides/blob/main/0g-storage-node-guide.md) 📦
+- 🌐 [Airchains Node Guide](https://github.com/rumba25/guides/blob/main/Airchains-guide.md) 🌐 | 🗄️ [Ethos Node Guide](https://github.com/rumba25/guides/blob/main/Ethos-guide.md) 🗄️ | 📦 [Settlus Node Guide](https://github.com/rumba25/guides/blob/main/Settlus-guide.md) 📦
 - 🗂️ [Planq Node Guide](https://github.com/rumba25/guides/blob/main/planq-node-guide.md) 🗂️
 
 
