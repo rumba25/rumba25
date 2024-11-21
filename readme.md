@@ -26,6 +26,10 @@ Hello! I am **Rumba**, a passionate blockchain enthusiast 🌐 dedicated to expl
 
 ### Past Validators 🔗
 
+- [Kwil](https://github.com/rumba25/kwilnode)
+![image](https://github.com/user-attachments/assets/3de2537b-25dc-459f-a6ff-cbb427d11e34)
+
+
 - [Elixir]() ⚗️
 ![image](https://github.com/user-attachments/assets/b058f15f-7d78-4c46-b81c-8ac5c1014327)
 
